@@ -22,4 +22,5 @@ You can specify `year` as
 You can specify `month` as
 - `.` -> Current month
 - `*` -> All months in the year
-- Any number -> Specific month
+- Any number [0 to 12] -> Specific month
+- Matching month name -> Specific month
